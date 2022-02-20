@@ -1,8 +1,9 @@
 # MediScan App
 
-This is a react native iOS app. You will need a macOS environment to run the code.
+MediScan is a mobile app that allows users to upload photos of their prescription drugs and populates a schedule for taking medication.
 
 ## Instructions
+This is a react native iOS app. You will need a macOS environment to run the code.
 
 Follow the instructions, to set up the environment: https://reactnative.dev/docs/environment-setup.
 
