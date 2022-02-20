@@ -75,7 +75,7 @@ const OnboardingScreen = ({navigation}) => {
           </Text>
           <TouchableOpacity
             style={styles.button}
-            onPress={() => navigation.navigate('Photos')}>
+            onPress={() => handleChoosePhoto()}>
             <Text style={styles.buttonText}>Upload photos</Text>
           </TouchableOpacity>
         </View>
